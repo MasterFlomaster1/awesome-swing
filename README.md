@@ -1,4 +1,7 @@
 # Awesome Swing
+
+[![Release Updates](https://github.com/MasterFlomaster1/awesome-swing/actions/workflows/update-readme.yml/badge.svg)](https://github.com/MasterFlomaster1/awesome-swing/actions/workflows/update-readme.yml)
+
 A list of frameworks, libraries and software for the Java Swing GUI toolkit.
 
 <!-- TABLE_START -->

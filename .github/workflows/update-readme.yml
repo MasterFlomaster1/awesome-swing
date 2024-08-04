@@ -1,14 +1,17 @@
-name: Update README Versions
+name: Release Updates
 
 on:
   schedule:
-    # Run the workflow every Sunday at 00:00
-    - cron: '0 0 * * 0'
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the changed files back to the repository.
+      contents: write
     
     steps:
     - name: Checkout repository
@@ -29,25 +32,7 @@ jobs:
       env:
         API_TOKEN: ${{ secrets.API_TOKEN }}
 
-    - name: Create a new branch for updates
-      run: |
-        git checkout -b update-versions
-        git add README.md
-        git commit -m "Update versions in README.md"
-      env:
-        GIT_AUTHOR_NAME: github-actions
-        GIT_AUTHOR_EMAIL: github-actions@github.com
-        GIT_COMMITTER_NAME: github-action
-        GIT_COMMITTER_EMAIL: github-actions@github.com
-
-    - name: Push changes
-      run: git push origin update-versions
-
-    - name: Set up GitHub CLI
-      uses: cli/cli-action@v2
-
-    - name: Create pull request
-      run: |
-        gh pr create --base main --head update-versions --title "Update versions in README" --body "Automated update of versions in README.md"
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Automatically commit and push
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Update versions in README
