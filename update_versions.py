@@ -55,14 +55,14 @@ def update_readme_table(file_path: str) -> None:
 
     table_start = readme_content.find(table_start_marker) + len(table_start_marker) + 1
     table_end = readme_content.find(table_end_marker) - 1
-    
+
     if table_start == -1 or table_end == -1:
         raise ValueError("Table markers not found in README.md")
-    
+
     table_content = readme_content[table_start:table_end]
     lines = table_content.strip().split('\n')
     header, separator, *rows = lines
-    
+
     updated_rows = []
     for row in rows:
         columns = row.split('|')
@@ -72,10 +72,10 @@ def update_readme_table(file_path: str) -> None:
         if not repo_url_match:
             updated_rows.append(row)
             continue
-            
+
         repo_url = repo_url_match.group(1)
         repo = repo_url.split("github.com/")[1]
-    
+
         latest_version, latest_release_date = get_latest_release(repo)
         if latest_version is None:
             updated_rows.append(row)
@@ -97,9 +97,9 @@ def update_readme_table(file_path: str) -> None:
     updated_table_content = '\n'.join([header, separator] + updated_rows)
 
     updated_readme_content = (
-            readme_content[:table_start] +
-            updated_table_content +
-            readme_content[table_end:]
+        readme_content[:table_start]
+        + updated_table_content
+        + readme_content[table_end:]
     )
 
     with open(file_path, "w") as file:
