@@ -25,10 +25,10 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        pip install -r .github/requirements.txt
 
     - name: Run update script
-      run: python update_versions.py
+      run: python .github/update_versions.py
       env:
         API_TOKEN: ${{ secrets.API_TOKEN }}
 

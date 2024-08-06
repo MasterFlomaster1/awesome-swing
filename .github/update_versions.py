@@ -42,6 +42,41 @@ def extract_version(value: str) -> Optional[str]:
     return match.group(0).replace('-', '.').replace('_', '.') if match else None
 
 
+def process_row(row: str) -> str:
+    """
+    Processes a row to extract the release version and updates it if a newer version is available.
+    """
+
+    columns = row.split('|')
+
+    if len(columns) != 4:
+        return row
+
+    # Extracts only GitHub repository URLs
+    repo_url_match = re.search(r'\((https://github\.com/[^/]+/[^/]+)\)', columns[0].strip())
+    if not repo_url_match:
+        return row
+
+    repo_url = repo_url_match.group(1)
+    repo = repo_url.split("github.com/")[1]
+
+    latest_version, latest_release_date = get_latest_release(repo)
+    if latest_version is None:
+        return row
+
+    latest_version = extract_version(latest_version)
+    current_version = extract_version(columns[3].split('/')[0])
+
+    if current_version == latest_version:
+        return row
+
+    date = datetime.strptime(latest_release_date, '%Y-%m-%dT%H:%M:%SZ').strftime('%b %d, %Y')
+    columns[3] = f" {latest_version} / {date} "
+
+    print(f"Updating: {repo_url} {current_version} -> {latest_version} {date}")
+    return '|'.join(columns)
+
+
 def update_readme_table(file_path: str) -> None:
     """
     Updates the table in README.md with the latest versions and release dates.
@@ -65,34 +100,7 @@ def update_readme_table(file_path: str) -> None:
 
     updated_rows = []
     for row in rows:
-        columns = row.split('|')
-        library_name = columns[0].strip()
-
-        repo_url_match = re.search(r'\((https://github\.com/[^/]+/[^/]+)\)', library_name)
-        if not repo_url_match:
-            updated_rows.append(row)
-            continue
-
-        repo_url = repo_url_match.group(1)
-        repo = repo_url.split("github.com/")[1]
-
-        latest_version, latest_release_date = get_latest_release(repo)
-        if latest_version is None:
-            updated_rows.append(row)
-            continue
-
-        latest_version = extract_version(latest_version)
-        current_version = extract_version(columns[3].split('/')[0])
-
-        if current_version == latest_version:
-            updated_rows.append(row)
-            continue
-
-        date = datetime.strptime(latest_release_date, '%Y-%m-%dT%H:%M:%SZ').strftime('%b %d, %Y')
-        print(f"Updating: {repo_url} {current_version} -> {latest_version} {date}")
-
-        columns[3] = f" {latest_version} / {date} "
-        updated_rows.append('|'.join(columns))
+        updated_rows.append(process_row(row))
 
     updated_table_content = '\n'.join([header, separator] + updated_rows)
 
@@ -107,4 +115,4 @@ def update_readme_table(file_path: str) -> None:
 
 
 if __name__ == "__main__":
-    update_readme_table("README.md")
+    update_readme_table("../README.md")
