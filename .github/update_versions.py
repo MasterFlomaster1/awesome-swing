@@ -110,8 +110,8 @@ def update_readme_table(file_path: str) -> None:
         + readme_content[table_end:]
     )
 
-    # with open(file_path, "w") as file:
-    #     file.write(updated_readme_content)
+    with open(file_path, "w") as file:
+        file.write(updated_readme_content)
 
 
 if __name__ == "__main__":
