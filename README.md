@@ -38,7 +38,7 @@ Library | Description | License | Latest Version
 [FlatLaf](https://www.formdev.com/flatlaf/) | Flat Look and Feel | Apache 2.0 | 3.4.1 / Mar 29, 2024
 [Darklaf](https://github.com/weisJ/darklaf) | A themeable Swing Look and Feel | MIT | v3.0.2 / Sep 30, 2022
 [Material Design L&F](https://github.com/vincenzopalazzo/material-ui-swing) | Material Design Look and Feel | MIT | v1.1.4 / Sep 13, 2022
-[VTerminal](https://github.com/Valkryst/VTerminal) | Look-and-Feel which allows for the display of Unicode characters with custom fore/background colors, font sizes, and pseudo-shaders | Apache 2.0 | 2024.1.6 / Jan 6, 2024
+[VTerminal](https://github.com/Valkryst/VTerminal) | Look-and-Feel which allows for the display of Unicode characters with custom fore/background colors, font sizes, and pseudo-shaders | Apache 2.0 | 2024.9.8 / Sep 08, 2024 
 [Radiance](https://github.com/kirill-grouchnikov/radiance) | Collection of Swing libraries (SVG icons, animation, skinning, additional components, etc.) | BSD 3-Clause | 7.5.0 / Jun 24, 2024 
 [AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Functional Swing UI testing | Apache 2.0 | 3.17.1 / Sep 19, 2020
 [UISpec4J](https://github.com/UISpec4J/UISpec4J) | Functional and/or unit testing library for Swing-based applications | ? | 2.4 / Nov 26, 2011
