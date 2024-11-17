@@ -13,7 +13,7 @@ Library | Description | License | Latest Version
 [OrsonPDF](https://github.com/jfree/orsonpdf) | PDF generation library for Java | GPL-3.0/Commercial | 1.9.1 / Nov 6, 2022
 [SmilePlot](https://github.com/haifengl/smile) | Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) | Apache 2.0 | 3.1.1 / May 22, 2024 
 [RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) | Customizable, syntax highlighting text component | Modified BSD | 3.5.2 / Oct 26, 2024 
-[Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | 9.10.2 / Oct 28, 2024 
+[Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | 9.11.0 / Nov 12, 2024 
 [Lobo](https://sourceforge.net/projects/xamj/) / [LoboEvolution](https://github.com/LoboEvolution/LoboEvolution) | Lobo is an extensible all-Java web browser and RIA platform. | MIT/GPL | 4.0 / Sep 20, 2023 
 [CSSBox](http://cssbox.sourceforge.net/) | (X)HTML/CSS rendering engine | LGPL | 5.0.0 / 31 Jan, 2021
 [MigLayout](https://github.com/mikaelgrev/miglayout) | Powerful layout manager | BSD | 11.4.2 / Sep 01, 2024 
@@ -38,7 +38,7 @@ Library | Description | License | Latest Version
 [FlatLaf](https://www.formdev.com/flatlaf/) | Flat Look and Feel | Apache 2.0 | 3.4.1 / Mar 29, 2024
 [Darklaf](https://github.com/weisJ/darklaf) | A themeable Swing Look and Feel | MIT | v3.0.2 / Sep 30, 2022
 [Material Design L&F](https://github.com/vincenzopalazzo/material-ui-swing) | Material Design Look and Feel | MIT | v1.1.4 / Sep 13, 2022
-[VTerminal](https://github.com/Valkryst/VTerminal) | Look-and-Feel which allows for the display of Unicode characters with custom fore/background colors, font sizes, and pseudo-shaders | Apache 2.0 | 2024.9.8 / Sep 08, 2024 
+[VTerminal](https://github.com/Valkryst/VTerminal) | Look-and-Feel which allows for the display of Unicode characters with custom fore/background colors, font sizes, and pseudo-shaders | Apache 2.0 | 2024.11.14 / Nov 14, 2024 
 [Radiance](https://github.com/kirill-grouchnikov/radiance) | Collection of Swing libraries (SVG icons, animation, skinning, additional components, etc.) | BSD 3-Clause | 7.5.0 / Jun 24, 2024 
 [AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Functional Swing UI testing | Apache 2.0 | 3.17.1 / Sep 19, 2020
 [UISpec4J](https://github.com/UISpec4J/UISpec4J) | Functional and/or unit testing library for Swing-based applications | ? | 2.4 / Nov 26, 2011
