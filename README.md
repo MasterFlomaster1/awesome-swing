@@ -13,7 +13,7 @@ Library | Description | License | Latest Version
 [OrsonPDF](https://github.com/jfree/orsonpdf) | PDF generation library for Java | GPL-3.0/Commercial | 1.9.1 / Nov 6, 2022
 [SmilePlot](https://github.com/haifengl/smile) | Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) | Apache 2.0 | 3.1.1 / May 22, 2024 
 [RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) | Customizable, syntax highlighting text component | Modified BSD | 3.5.2 / Oct 26, 2024 
-[Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | 9.11.0 / Nov 12, 2024 
+[Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | 9.11.1 / Nov 22, 2024 
 [Lobo](https://sourceforge.net/projects/xamj/) / [LoboEvolution](https://github.com/LoboEvolution/LoboEvolution) | Lobo is an extensible all-Java web browser and RIA platform. | MIT/GPL | 4.0 / Sep 20, 2023 
 [CSSBox](http://cssbox.sourceforge.net/) | (X)HTML/CSS rendering engine | LGPL | 5.0.0 / 31 Jan, 2021
 [MigLayout](https://github.com/mikaelgrev/miglayout) | Powerful layout manager | BSD | 11.4.2 / Sep 01, 2024 
@@ -122,7 +122,7 @@ Library | Description | License | Latest Version
 [SecresOS](https://github.com/PranavAmarnath/SecresOS) | Lightweight UI for quick interaction with the system and Internet | Apache 2.0 | 1.3 / Jun 13, 2022
 [BinEd](https://bined.exbin.org/) | Binary/hexadecimal viewer/editor and component | Apache 2.0 | 0.2.1 / Oct. 31, 2021
 [SpringRemote](https://github.com/HaleyWang/SpringRemote) | Tabbed remote linux SSH connections manager | MIT | 0.1.9 / Jun 12, 2022
-[MooInfo](https://github.com/rememberber/MooInfo) | Visual implementation of OSHI, to view information about the system and hardware | MIT | 1.1.3 / Jul 24, 2023
+[MooInfo](https://github.com/rememberber/MooInfo) | Visual implementation of OSHI, to view information about the system and hardware | MIT | 1.1.4 / Nov 19, 2024 
 [TreeLayout](http://treelayout.sourceforge.net/) | Tree Layout Algorithm in Java | BSD-3-Clause | 1.0.3 / Nov 05, 2015
 [Color Picker Dialog](https://github.com/dheid/colorpicker) | Color picker that contains visual color selection and input boxes to enter RGB and HSB values manually | BSD-3-Clause | 2.0.1 / Apr 19, 2024 
 [Flamegraph/Iciclegraph](https://github.com/bric3/fireplace) | [Flamegraph](https://queue.acm.org/detail.cfm?id=2927301) / Iciclegraph component | MPL-2.0 | v0.0.1-rc.4 / Jan 6, 2023
