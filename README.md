@@ -11,7 +11,7 @@ Library | Description | License | Latest Version
 [JFreeChart](https://github.com/jfree/jfreechart/) | Client-side and server-side chart library | LGPL | 1.5.4 / Jan 8, 2023
 [Orson Charts](http://www.object-refinery.com/orsoncharts/) | 3D chart library for Java | GPL-3.0/Commercial | 2.1.0 / Jan 23, 2022
 [OrsonPDF](https://github.com/jfree/orsonpdf) | PDF generation library for Java | GPL-3.0/Commercial | 1.9.1 / Nov 6, 2022
-[SmilePlot](https://github.com/haifengl/smile) | Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) | Apache 2.0 | 3.1.1 / May 22, 2024 
+[SmilePlot](https://github.com/haifengl/smile) | Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) | Apache 2.0 | 4.0.0 / Nov 25, 2024 
 [RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) | Customizable, syntax highlighting text component | Modified BSD | 3.5.2 / Oct 26, 2024 
 [Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | 9.11.1 / Nov 22, 2024 
 [Lobo](https://sourceforge.net/projects/xamj/) / [LoboEvolution](https://github.com/LoboEvolution/LoboEvolution) | Lobo is an extensible all-Java web browser and RIA platform. | MIT/GPL | 4.0 / Sep 20, 2023 
@@ -111,7 +111,7 @@ Library | Description | License | Latest Version
 [Jython Swing Utilities](https://github.com/jython/swingutils) | A collection of utility classes and helper functions to make it easier to build Swing user interfaces with [Jython](https://github.com/jython/jython) | ? | 2.1.2 / Aug 7, 2015
 [jZELD](https://github.com/kkieffer/jZELD) |  Framework for layout and emplacement of various drawn shapes on a canvas | LGPL-3.0 |
 [swing-extensions](https://jonestimd.github.io/swing-extensions/) |  Custom components for Java Swing | MIT | 1.4 / Nov 24, 2019
-[OpenWebStart](https://github.com/karakun/OpenWebStart) | Run Web Start based applications after the release of Java 11 | GPLv2 with exceptions / Commercial | 1.10.1 / Jun 13, 2024 
+[OpenWebStart](https://github.com/karakun/OpenWebStart) | Run Web Start based applications after the release of Java 11 | GPLv2 with exceptions / Commercial | 1.11.0 / Nov 27, 2024 
 [FutureRestore GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) | A cross-platform interface for FutureRestore, written in Java with Swing | LGPL-2.1 | v1.98.3 / Dec 18, 2022
 [JInputValidator](https://github.com/rhwood/jinputvalidator) | An InputVerifier that shows validation state to the right of the validating component | Apache 2.0 | 0.9.0 / Apr 27, 2022
 [swing-stream-utils](https://github.com/parubok/swing-stream-utils) | Utils for working with Java Swing components via Java 8 streams (Disclaimer: I'm the author of the library) | Apache 2.0 | v1.37 / Apr 29, 2023
@@ -127,7 +127,7 @@ Library | Description | License | Latest Version
 [Color Picker Dialog](https://github.com/dheid/colorpicker) | Color picker that contains visual color selection and input boxes to enter RGB and HSB values manually | BSD-3-Clause | 2.0.1 / Apr 19, 2024 
 [Flamegraph/Iciclegraph](https://github.com/bric3/fireplace) | [Flamegraph](https://queue.acm.org/detail.cfm?id=2927301) / Iciclegraph component | MPL-2.0 | v0.0.1-rc.4 / Jan 6, 2023
 [multiline-label](https://github.com/parubok/multiline-label) | Component to display a plain, left-to-right text (single line or multiline) (Disclaimer: I'm the author of the library) | Apache 2.0 | 1.20 / Feb 10, 2024
-[Sierra](https://github.com/HTTP-RPC/Sierra) | Framework for simplifying development of Java Swing applications | Apache 2.0 | 2.3.1 / Aug 22, 2024 
+[Sierra](https://github.com/HTTP-RPC/Sierra) | Framework for simplifying development of Java Swing applications | Apache 2.0 | 2.3.2 / Nov 29, 2024 
 [Modern Docking](https://github.com/andrewauclair/ModernDocking) | Modern docking framework for Java Swing | MIT | 0.11.6 / Jul 06, 2024 
 [Rawky](https://github.com/DeflatedPickle/Rawky) | A pixel art editor | MIT | v0.19.5.15-alpha / Apr 6, 20201
 [ReflectionUI](https://github.com/dotxyteam/ReflectionUI) | Java reflection-based GUI builder/generator | MIT | 5.2.10 / Jun 19, 2023
