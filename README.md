@@ -14,7 +14,7 @@ Library | Description | License | Latest Version
 [SmilePlot](https://github.com/haifengl/smile) | Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) | Apache 2.0 | 4.0.0 / Nov 25, 2024 
 [RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) | Customizable, syntax highlighting text component | Modified BSD | 3.5.3 / Dec 08, 2024 
 [Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | 9.11.2 / Dec 02, 2024 
-[Lobo](https://sourceforge.net/projects/xamj/) / [LoboEvolution](https://github.com/LoboEvolution/LoboEvolution) | Lobo is an extensible all-Java web browser and RIA platform. | MIT/GPL | 4.0 / Sep 20, 2023 
+[Lobo](https://sourceforge.net/projects/xamj/) / [LoboEvolution](https://github.com/LoboEvolution/LoboEvolution) | Lobo is an extensible all-Java web browser and RIA platform. | MIT/GPL | 5.0 / Jan 01, 2025 
 [CSSBox](http://cssbox.sourceforge.net/) | (X)HTML/CSS rendering engine | LGPL | 5.0.0 / 31 Jan, 2021
 [MigLayout](https://github.com/mikaelgrev/miglayout) | Powerful layout manager | BSD | 11.4.2 / Sep 01, 2024 
 [MiG Calendar](http://www.migcalendar.com) | Calendar Component | Commercial | v6.9.3
@@ -127,8 +127,8 @@ Library | Description | License | Latest Version
 [Color Picker Dialog](https://github.com/dheid/colorpicker) | Color picker that contains visual color selection and input boxes to enter RGB and HSB values manually | BSD-3-Clause | 2.0.1 / Apr 19, 2024 
 [Flamegraph/Iciclegraph](https://github.com/bric3/fireplace) | [Flamegraph](https://queue.acm.org/detail.cfm?id=2927301) / Iciclegraph component | MPL-2.0 | v0.0.1-rc.4 / Jan 6, 2023
 [multiline-label](https://github.com/parubok/multiline-label) | Component to display a plain, left-to-right text (single line or multiline) (Disclaimer: I'm the author of the library) | Apache 2.0 | 1.20 / Feb 10, 2024
-[Sierra](https://github.com/HTTP-RPC/Sierra) | Framework for simplifying development of Java Swing applications | Apache 2.0 | 2.4 / Dec 28, 2024 
-[Modern Docking](https://github.com/andrewauclair/ModernDocking) | Modern docking framework for Java Swing | MIT | 0.11.6 / Jul 06, 2024 
+[Sierra](https://github.com/HTTP-RPC/Sierra) | Framework for simplifying development of Java Swing applications | Apache 2.0 | 2.4.4 / Jan 04, 2025 
+[Modern Docking](https://github.com/andrewauclair/ModernDocking) | Modern docking framework for Java Swing | MIT | 1.0 / Dec 31, 2024 
 [Rawky](https://github.com/DeflatedPickle/Rawky) | A pixel art editor | MIT | v0.19.5.15-alpha / Apr 6, 20201
 [ReflectionUI](https://github.com/dotxyteam/ReflectionUI) | Java reflection-based GUI builder/generator | MIT | 5.2.10 / Jun 19, 2023
 <!-- TABLE_END -->
