@@ -12,7 +12,7 @@ Library | Description | License | Latest Version
 [Orson Charts](http://www.object-refinery.com/orsoncharts/) | 3D chart library for Java | GPL-3.0/Commercial | 2.1.0 / Jan 23, 2022
 [OrsonPDF](https://github.com/jfree/orsonpdf) | PDF generation library for Java | GPL-3.0/Commercial | 1.9.1 / Nov 6, 2022
 [SmilePlot](https://github.com/haifengl/smile) | Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) | Apache 2.0 | 4.2.0 / Feb 01, 2025 
-[RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) | Customizable, syntax highlighting text component | Modified BSD | 3.5.3 / Dec 08, 2024 
+[RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) | Customizable, syntax highlighting text component | Modified BSD | 3.5.4 / Feb 08, 2025 
 [Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | 9.11.3 / Jan 29, 2025 
 [Lobo](https://sourceforge.net/projects/xamj/) / [LoboEvolution](https://github.com/LoboEvolution/LoboEvolution) | Lobo is an extensible all-Java web browser and RIA platform. | MIT/GPL | 5.0 / Jan 01, 2025 
 [CSSBox](http://cssbox.sourceforge.net/) | (X)HTML/CSS rendering engine | LGPL | 5.0.0 / 31 Jan, 2021
@@ -111,7 +111,7 @@ Library | Description | License | Latest Version
 [Jython Swing Utilities](https://github.com/jython/swingutils) | A collection of utility classes and helper functions to make it easier to build Swing user interfaces with [Jython](https://github.com/jython/jython) | ? | 2.1.2 / Aug 7, 2015
 [jZELD](https://github.com/kkieffer/jZELD) |  Framework for layout and emplacement of various drawn shapes on a canvas | LGPL-3.0 |
 [swing-extensions](https://jonestimd.github.io/swing-extensions/) |  Custom components for Java Swing | MIT | 1.4 / Nov 24, 2019
-[OpenWebStart](https://github.com/karakun/OpenWebStart) | Run Web Start based applications after the release of Java 11 | GPLv2 with exceptions / Commercial | 1.11.0 / Nov 27, 2024 
+[OpenWebStart](https://github.com/karakun/OpenWebStart) | Run Web Start based applications after the release of Java 11 | GPLv2 with exceptions / Commercial | 1.11.1 / Feb 07, 2025 
 [FutureRestore GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) | A cross-platform interface for FutureRestore, written in Java with Swing | LGPL-2.1 | v1.98.3 / Dec 18, 2022
 [JInputValidator](https://github.com/rhwood/jinputvalidator) | An InputVerifier that shows validation state to the right of the validating component | Apache 2.0 | 0.9.0 / Apr 27, 2022
 [swing-stream-utils](https://github.com/parubok/swing-stream-utils) | Utils for working with Java Swing components via Java 8 streams (Disclaimer: I'm the author of the library) | Apache 2.0 | v1.37 / Apr 29, 2023
