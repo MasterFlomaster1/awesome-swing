@@ -11,7 +11,7 @@ Library | Description | License | Latest Version
 [JFreeChart](https://github.com/jfree/jfreechart/) | Client-side and server-side chart library | LGPL | 1.5.4 / Jan 8, 2023
 [Orson Charts](http://www.object-refinery.com/orsoncharts/) | 3D chart library for Java | GPL-3.0/Commercial | 2.1.0 / Jan 23, 2022
 [OrsonPDF](https://github.com/jfree/orsonpdf) | PDF generation library for Java | GPL-3.0/Commercial | 1.9.1 / Nov 6, 2022
-[SmilePlot](https://github.com/haifengl/smile) | Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) | Apache 2.0 | 4.2.0 / Feb 01, 2025 
+[SmilePlot](https://github.com/haifengl/smile) | Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) | Apache 2.0 | 4.3.0 / Mar 04, 2025 
 [RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) | Customizable, syntax highlighting text component | Modified BSD | 3.5.4 / Feb 08, 2025 
 [Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | 9.11.4 / Feb 21, 2025 
 [Lobo](https://sourceforge.net/projects/xamj/) / [LoboEvolution](https://github.com/LoboEvolution/LoboEvolution) | Lobo is an extensible all-Java web browser and RIA platform. | MIT/GPL | 5.0 / Jan 01, 2025 
