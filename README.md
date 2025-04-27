@@ -128,7 +128,7 @@ Library | Description | License | Latest Version
 [Flamegraph/Iciclegraph](https://github.com/bric3/fireplace) | [Flamegraph](https://queue.acm.org/detail.cfm?id=2927301) / Iciclegraph component | MPL-2.0 | v0.0.1-rc.4 / Jan 6, 2023
 [multiline-label](https://github.com/parubok/multiline-label) | Component to display a plain, left-to-right text (single line or multiline) (Disclaimer: I'm the author of the library) | Apache 2.0 | 1.20 / Feb 10, 2024
 [Sierra](https://github.com/HTTP-RPC/Sierra) | Framework for simplifying development of Java Swing applications | Apache 2.0 | 2.7.4 / Apr 16, 2025 
-[Modern Docking](https://github.com/andrewauclair/ModernDocking) | Modern docking framework for Java Swing | MIT | 1.0.4 / Apr 11, 2025 
+[Modern Docking](https://github.com/andrewauclair/ModernDocking) | Modern docking framework for Java Swing | MIT | 1.1 / Apr 26, 2025 
 [Rawky](https://github.com/DeflatedPickle/Rawky) | A pixel art editor | MIT | v0.19.5.15-alpha / Apr 6, 20201
 [ReflectionUI](https://github.com/dotxyteam/ReflectionUI) | Java reflection-based GUI builder/generator | MIT | 5.2.10 / Jun 19, 2023
 <!-- TABLE_END -->
