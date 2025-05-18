@@ -26,7 +26,7 @@ Library | Description | License | Latest Version
 [GeoTools gt-swing module](http://docs.geotools.org/stable/userguide/unsupported/swing/index.html) | Basic GUI and utility classes for GeoTools library | LGPL | 19.0 / 2018-03-19
 [Batik](https://github.com/apache/batik) |  Scalable Vector Graphics (SVG) toolkit from Apache | Apache 2.0 | 1.17 / Aug 14, 2023
 [SVG Salamander](https://github.com/blackears/svgSalamander) | SVG Salamander is an SVG engine for Java | LGPL and BSD | v1.1.4 / Oct 6, 2022
-[JFreeSVG](https://github.com/jfree/jfreesvg) | Java library for creating SVG output | GPL / Commercial| 5.0.6 / Jun 23, 2024 
+[JFreeSVG](https://github.com/jfree/jfreesvg) | Java library for creating SVG output | GPL / Commercial| 5.0.7 / May 17, 2025 
 [LGoodDatePicker](https://github.com/LGoodDatePicker/LGoodDatePicker) | Date Picker widget | MIT | 11.2.1 / Mar 1, 2021
 [JDatePicker](https://github.com/JDatePicker/JDatePicker) | Date Picker widget | BSD | 1.3.4.1 / Jun 6, 2015
 [JIDE](http://www.jidesoft.com/) |  UI frameworks and components | Commercial/Free | 3.7.1 / 5 October 2017
@@ -127,8 +127,8 @@ Library | Description | License | Latest Version
 [Color Picker Dialog](https://github.com/dheid/colorpicker) | Color picker that contains visual color selection and input boxes to enter RGB and HSB values manually | BSD-3-Clause | 2.0.1 / Apr 19, 2024 
 [Flamegraph/Iciclegraph](https://github.com/bric3/fireplace) | [Flamegraph](https://queue.acm.org/detail.cfm?id=2927301) / Iciclegraph component | MPL-2.0 | v0.0.1-rc.4 / Jan 6, 2023
 [multiline-label](https://github.com/parubok/multiline-label) | Component to display a plain, left-to-right text (single line or multiline) (Disclaimer: I'm the author of the library) | Apache 2.0 | 1.20 / Feb 10, 2024
-[Sierra](https://github.com/HTTP-RPC/Sierra) | Framework for simplifying development of Java Swing applications | Apache 2.0 | 2.7.5 / May 04, 2025 
-[Modern Docking](https://github.com/andrewauclair/ModernDocking) | Modern docking framework for Java Swing | MIT | 1.1.2 / Apr 30, 2025 
+[Sierra](https://github.com/HTTP-RPC/Sierra) | Framework for simplifying development of Java Swing applications | Apache 2.0 | 2.8 / May 15, 2025 
+[Modern Docking](https://github.com/andrewauclair/ModernDocking) | Modern docking framework for Java Swing | MIT | 1.1.4 / May 17, 2025 
 [Rawky](https://github.com/DeflatedPickle/Rawky) | A pixel art editor | MIT | v0.19.5.15-alpha / Apr 6, 20201
 [ReflectionUI](https://github.com/dotxyteam/ReflectionUI) | Java reflection-based GUI builder/generator | MIT | 5.2.10 / Jun 19, 2023
 <!-- TABLE_END -->
