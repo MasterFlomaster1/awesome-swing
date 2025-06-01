@@ -39,7 +39,7 @@ Library | Description | License | Latest Version
 [Darklaf](https://github.com/weisJ/darklaf) | A themeable Swing Look and Feel | MIT | v3.0.2 / Sep 30, 2022
 [Material Design L&F](https://github.com/vincenzopalazzo/material-ui-swing) | Material Design Look and Feel | MIT | v1.1.4 / Sep 13, 2022
 [VTerminal](https://github.com/Valkryst/VTerminal) | Look-and-Feel which allows for the display of Unicode characters with custom fore/background colors, font sizes, and pseudo-shaders | Apache 2.0 | 2024.11.14 / Nov 14, 2024 
-[Radiance](https://github.com/kirill-grouchnikov/radiance) | Collection of Swing libraries (SVG icons, animation, skinning, additional components, etc.) | BSD 3-Clause | 7.5.0 / Jun 24, 2024 
+[Radiance](https://github.com/kirill-grouchnikov/radiance) | Collection of Swing libraries (SVG icons, animation, skinning, additional components, etc.) | BSD 3-Clause | 8.0.0 / May 30, 2025 
 [AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) | Functional Swing UI testing | Apache 2.0 | 3.17.1 / Sep 19, 2020
 [UISpec4J](https://github.com/UISpec4J/UISpec4J) | Functional and/or unit testing library for Swing-based applications | ? | 2.4 / Nov 26, 2011
 [Automaton](https://github.com/renatoathaydes/Automaton) | Framework for testing of Swing and JavaFX2 applications | Apache 2.0 | 1.3.2 / Jan 27, 2016
@@ -111,7 +111,7 @@ Library | Description | License | Latest Version
 [Jython Swing Utilities](https://github.com/jython/swingutils) | A collection of utility classes and helper functions to make it easier to build Swing user interfaces with [Jython](https://github.com/jython/jython) | ? | 2.1.2 / Aug 7, 2015
 [jZELD](https://github.com/kkieffer/jZELD) |  Framework for layout and emplacement of various drawn shapes on a canvas | LGPL-3.0 |
 [swing-extensions](https://jonestimd.github.io/swing-extensions/) |  Custom components for Java Swing | MIT | 1.4 / Nov 24, 2019
-[OpenWebStart](https://github.com/karakun/OpenWebStart) | Run Web Start based applications after the release of Java 11 | GPLv2 with exceptions / Commercial | 1.11.1 / Feb 07, 2025 
+[OpenWebStart](https://github.com/karakun/OpenWebStart) | Run Web Start based applications after the release of Java 11 | GPLv2 with exceptions / Commercial | 1.12.0 / May 28, 2025 
 [FutureRestore GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) | A cross-platform interface for FutureRestore, written in Java with Swing | LGPL-2.1 | v1.98.3 / Dec 18, 2022
 [JInputValidator](https://github.com/rhwood/jinputvalidator) | An InputVerifier that shows validation state to the right of the validating component | Apache 2.0 | 0.9.0 / Apr 27, 2022
 [swing-stream-utils](https://github.com/parubok/swing-stream-utils) | Utils for working with Java Swing components via Java 8 streams (Disclaimer: I'm the author of the library) | Apache 2.0 | v1.37 / Apr 29, 2023
