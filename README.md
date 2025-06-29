@@ -13,7 +13,7 @@ Library | Description | License | Latest Version
 [OrsonPDF](https://github.com/jfree/orsonpdf) | PDF generation library for Java | GPL-3.0/Commercial | 1.9.1 / Nov 6, 2022
 [SmilePlot](https://github.com/haifengl/smile) | Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) | Apache 2.0 | 4.4.0 / Jun 19, 2025 
 [RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) | Customizable, syntax highlighting text component | Modified BSD | 3.6.0 / Mar 18, 2025 
-[Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | 9.12.1 / Jun 16, 2025 
+[Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | 9.13.0 / Jun 28, 2025 
 [Lobo](https://sourceforge.net/projects/xamj/) / [LoboEvolution](https://github.com/LoboEvolution/LoboEvolution) | Lobo is an extensible all-Java web browser and RIA platform. | MIT/GPL | 5.0 / Jan 01, 2025 
 [CSSBox](http://cssbox.sourceforge.net/) | (X)HTML/CSS rendering engine | LGPL | 5.0.0 / 31 Jan, 2021
 [MigLayout](https://github.com/mikaelgrev/miglayout) | Powerful layout manager | BSD | 11.4.2 / Sep 01, 2024 
