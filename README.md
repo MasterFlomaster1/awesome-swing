@@ -13,7 +13,7 @@ Library | Description | License | Latest Version
 [OrsonPDF](https://github.com/jfree/orsonpdf) | PDF generation library for Java | GPL-3.0/Commercial | 1.9.1 / Nov 6, 2022
 [SmilePlot](https://github.com/haifengl/smile) | Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) | Apache 2.0 | 4.4.0 / Jun 19, 2025 
 [RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) | Customizable, syntax highlighting text component | Modified BSD | 3.6.0 / Mar 18, 2025 
-[Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | 9.13.0 / Jun 28, 2025 
+[Flying Saucer](https://github.com/flyingsaucerproject/flyingsaucer) | XML/XHTML and CSS 2.1 renderer | LGPL | 9.13.1 / Jul 17, 2025 
 [Lobo](https://sourceforge.net/projects/xamj/) / [LoboEvolution](https://github.com/LoboEvolution/LoboEvolution) | Lobo is an extensible all-Java web browser and RIA platform. | MIT/GPL | 5.0 / Jan 01, 2025 
 [CSSBox](http://cssbox.sourceforge.net/) | (X)HTML/CSS rendering engine | LGPL | 5.0.0 / 31 Jan, 2021
 [MigLayout](https://github.com/mikaelgrev/miglayout) | Powerful layout manager | BSD | 11.4.2 / Sep 01, 2024 
@@ -36,7 +36,7 @@ Library | Description | License | Latest Version
 [SlidingLayout](https://github.com/AurelienRibon/sliding-layout) |  Little library lets you very easily create smooth transitions between two layouts of components in a special panel | Apache 2.0 | 1.1.1 / Sep 23, 2012
 [WebLaF](https://github.com/mgarin/weblaf) | Look and Feel library | GPL / Commercial | v1.2.13 / Jun 19, 2020
 [FlatLaf](https://www.formdev.com/flatlaf/) | Flat Look and Feel | Apache 2.0 | 3.4.1 / Mar 29, 2024
-[Darklaf](https://github.com/weisJ/darklaf) | A themeable Swing Look and Feel | MIT | v3.0.2 / Sep 30, 2022
+[Darklaf](https://github.com/weisJ/darklaf) | A themeable Swing Look and Feel | MIT | 3.0.3 / Jul 13, 2025 
 [Material Design L&F](https://github.com/vincenzopalazzo/material-ui-swing) | Material Design Look and Feel | MIT | v1.1.4 / Sep 13, 2022
 [VTerminal](https://github.com/Valkryst/VTerminal) | Look-and-Feel which allows for the display of Unicode characters with custom fore/background colors, font sizes, and pseudo-shaders | Apache 2.0 | 2025.6.3 / Jun 03, 2025 
 [Radiance](https://github.com/kirill-grouchnikov/radiance) | Collection of Swing libraries (SVG icons, animation, skinning, additional components, etc.) | BSD 3-Clause | 8.0.0 / May 30, 2025 
